@@ -1,0 +1,4 @@
+C:\Users\56809647830\Desktop\Back End T\POO\ClassesEObjetos\obj\Debug\net9.0\ClassesEObjetos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\56809647830\Desktop\Back End T\POO\ClassesEObjetos\obj\Debug\net9.0\ClassesEObjetos.AssemblyInfoInputs.cache
+C:\Users\56809647830\Desktop\Back End T\POO\ClassesEObjetos\obj\Debug\net9.0\ClassesEObjetos.AssemblyInfo.cs
+C:\Users\56809647830\Desktop\Back End T\POO\ClassesEObjetos\obj\Debug\net9.0\ClassesEObjetos.csproj.CoreCompileInputs.cache

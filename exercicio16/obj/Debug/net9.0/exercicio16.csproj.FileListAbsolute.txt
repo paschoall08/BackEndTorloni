@@ -1,0 +1,4 @@
+C:\Users\56809647830\Desktop\Back End T\exercicio16\obj\Debug\net9.0\exercicio16.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\56809647830\Desktop\Back End T\exercicio16\obj\Debug\net9.0\exercicio16.AssemblyInfoInputs.cache
+C:\Users\56809647830\Desktop\Back End T\exercicio16\obj\Debug\net9.0\exercicio16.AssemblyInfo.cs
+C:\Users\56809647830\Desktop\Back End T\exercicio16\obj\Debug\net9.0\exercicio16.csproj.CoreCompileInputs.cache
