@@ -1,27 +1,19 @@
-namespace ClassesEObjetos
+using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Threading.Tasks;
+
+namespace MetodoConstrutor
 {
     public class Pessoa
     {
+        public string Nome;
 
-        public string Nome = "";
+        public int Idade;
 
-        public int Idade = 0;
-
-        public void Falar()
+        public void ExibirDados()
         {
-            Console.Writeline($"Ola, meu nome e {Nome}");
-        }
-
-        public int Envelhecer(int _anos)
-        {
-            if (_anos <= 0)
-            {
-                Console.WriteLine($"Idade tem que ser positiva!")
-                return;
-            }
-
-            Idade += _anos;
-            return Idade;
+            System.Console.WriteLine($"Nome:{Nome}, Idade:{Idade}");
         }
     }
 }
