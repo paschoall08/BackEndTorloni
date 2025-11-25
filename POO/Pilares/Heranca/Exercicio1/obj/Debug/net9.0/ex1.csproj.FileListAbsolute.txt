@@ -1,0 +1,4 @@
+C:\Users\56809647830\Desktop\Back End T\POO\Pilares\Heranca\Exercicio1\obj\Debug\net9.0\ex1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\56809647830\Desktop\Back End T\POO\Pilares\Heranca\Exercicio1\obj\Debug\net9.0\ex1.AssemblyInfoInputs.cache
+C:\Users\56809647830\Desktop\Back End T\POO\Pilares\Heranca\Exercicio1\obj\Debug\net9.0\ex1.AssemblyInfo.cs
+C:\Users\56809647830\Desktop\Back End T\POO\Pilares\Heranca\Exercicio1\obj\Debug\net9.0\ex1.csproj.CoreCompileInputs.cache
